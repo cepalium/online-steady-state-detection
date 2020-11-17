@@ -8,14 +8,6 @@ Python package implementing 5 online steady state detection methods:
 * R-Test [3]
 * Multiple Change-points with exact Bayesian Inference (EB) [4]
 
-## Installation
-
-```
-$ git clone https://github.com/cepalium/ossdem.git
-$ cd ossdem
-$ python setup.py install
-```
-
 ## References
 
 [1] Robert Bethea, Applied Engineering Statistics, Linear Regression, vol. 121. Marcel Dekker, 1991. <br/>
